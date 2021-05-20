@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmation
 - 🌱 I’m currently learning Python, Java and Web Devlopment
 - 💞️ I’m looking to collaborate on any projects related to what I am learning to gain experience
-- 📫 Say hello through a private message (:
+- 📫 enriquev.contacto@gmail.com
 
 <!---
 Enrique-Vergara/Enrique-Vergara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
